@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "0439140ccd07cb9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "88c0f2a7216dca13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56bbc1986987c12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ход игры/02. Деревня Сосновый Бор.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. Деревня Сосновый Бор"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c514cfbd5418f39",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a7d74dc712cd7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d1db7b9509a6624",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b647d68f703df165",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af504fccdce1a620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "296ac9783410fc8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29592ecc2ddac560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e660bd942b668193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "09bac3049d0b37fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e37e49eea8584d44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1442dd915f5b32f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0b04d442b9f0729d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "38c040fc1c2d55c4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "b23c5801047cc4cb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "5fa76c627f1e52e9",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "d847e101c6517fd0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "ddf2f6518d0a08ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2853e1bba548e060",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "3d1db7b9509a6624",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "Ход игры/03. Логово гоблинов.md",
+    "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
+    "Ход игры/02. Деревня Сосновый Бор.md",
+    "Персонажи/Корвин Тернистый. Друид.md",
+    "Ход игры/01. Засада у реки.md",
+    "Материалы/village-battle-map_frames/4.jpg",
+    "Материалы/village-battle-map_frames/3.jpg",
+    "Материалы/village-battle-map_frames/2.jpg",
+    "Материалы/village-battle-map_frames/1.jpg",
+    "Материалы/village-battle-map_frames",
+    "Материалы/village-battle-map_frames.zip",
+    "Материалы/Unconfirmed 183980.crdownload",
+    "Материалы/Корвин Тернистый.jpg",
+    "Заметки.md",
+    "Материалы/гоблин-чад.jpg",
+    "Материалы/гоблин-шаман.jpg",
+    "Материалы/Харгрейв Торнвуд.jpg",
+    "Материалы/гоблин-разведчик.jpg",
+    "Материалы/гоблин-воин.jpg",
+    "Персонажи/Харгрейв Торнвуд. Староста.md",
+    "Персонажи/Лаэриэль Шепчущая Тетива. Охотница.md",
+    "Бестиарий/Лаэриэль Шепчущая Стрела.md",
+    "Материалы/Unconfirmed 126395.crdownload",
+    "Материалы/Unconfirmed 340737.crdownload",
+    "Материалы/Unconfirmed 716214.crdownload",
+    "Материалы/Unconfirmed 20536.crdownload",
+    "Материалы/Unconfirmed 535748.crdownload",
+    "Материалы/Unconfirmed 823284.crdownload",
+    "Материалы/Unconfirmed 405558.crdownload",
+    "Welcome.md"
+  ]
+}
