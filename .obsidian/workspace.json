@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88c0f2a7216dca13",
+        "id": "3d2a922fa6f87410",
         "type": "tabs",
         "children": [
           {
-            "id": "56bbc1986987c12e",
+            "id": "afab7bac25fa5b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ход игры/02. Деревня Сосновый Бор.md",
+                "file": "Ход игры/03. Логово гоблинов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Деревня Сосновый Бор"
+              "title": "03. Логово гоблинов"
             }
           }
         ]
@@ -241,15 +241,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "56bbc1986987c12e",
+  "active": "afab7bac25fa5b27",
   "lastOpenFiles": [
     "Заметки.md",
+    "Ход игры/03. Логово гоблинов.md",
     "Ход игры/02. Деревня Сосновый Бор.md",
+    "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
+    "Предметы/Посох фей.md",
+    "Предметы/Жало.md",
+    "Предметы",
+    "Материалы/гоблин-чад.jpg",
     "Персонажи/Харгрейв Торнвуд. Староста.md",
     "Персонажи/Корвин Тернистый. Друид.md",
     "New Text Document.txt",
-    "Ход игры/03. Логово гоблинов.md",
-    "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
     "Ход игры/01. Засада у реки.md",
     "Материалы/village-battle-map_frames/4.jpg",
     "Материалы/village-battle-map_frames/3.jpg",
@@ -259,7 +263,6 @@
     "Материалы/village-battle-map_frames.zip",
     "Материалы/Unconfirmed 183980.crdownload",
     "Материалы/Корвин Тернистый.jpg",
-    "Материалы/гоблин-чад.jpg",
     "Материалы/гоблин-шаман.jpg",
     "Материалы/Харгрейв Торнвуд.jpg",
     "Материалы/гоблин-разведчик.jpg",
@@ -271,7 +274,6 @@
     "Материалы/Unconfirmed 716214.crdownload",
     "Материалы/Unconfirmed 20536.crdownload",
     "Материалы/Unconfirmed 535748.crdownload",
-    "Материалы/Unconfirmed 823284.crdownload",
     "Welcome.md"
   ]
 }
