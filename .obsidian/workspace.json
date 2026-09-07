@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d2a922fa6f87410",
+        "id": "a94254c57875ea9e",
         "type": "tabs",
         "children": [
           {
-            "id": "afab7bac25fa5b27",
+            "id": "36a96cdc9ca5b80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,6 +89,7 @@
       {
         "id": "29592ecc2ddac560",
         "type": "tabs",
+        "dimension": 55.32945736434108,
         "children": [
           {
             "id": "e660bd942b668193",
@@ -180,8 +181,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -205,19 +206,23 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
-        "id": "ddf2f6518d0a08ce",
+        "id": "30b288d480b5488d",
         "type": "tabs",
+        "dimension": 44.67054263565892,
         "children": [
           {
-            "id": "2853e1bba548e060",
+            "id": "c9f8c297ac2c0615",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_3bba39285ba9",
+                "creatureName": "Goblin"
+              },
+              "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
             }
           }
@@ -225,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 677.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,21 +246,31 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "afab7bac25fa5b27",
+  "active": "36a96cdc9ca5b80b",
   "lastOpenFiles": [
-    "Ход игры/04. Эпилог.md",
+    "Бестиарий/Гоблин чэд.md",
+    "Ресурсы/Корвин Тернистый.jpg",
+    "Ресурсы/гоблин-шаман.jpg",
+    "Ресурсы/гоблин-чад.jpg",
+    "Ресурсы/гоблин-разведчик.jpg",
+    "Ресурсы/гоблин-воин.jpg",
+    "Ресурсы/Багбир.jpg",
+    "Ресурсы/village-battle-map.png",
+    "Ресурсы/den-of-goblins-battle-map.png",
+    "Ресурсы/bridge-battle-map.png",
+    "Ресурсы/Харгрейв Торнвуд.jpg",
+    "Бестиарий/Шаман Гнилозуб.md",
+    "Бестиарий/Корвин Тернистый.md",
     "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Ход игры/04. Эпилог.md",
     "Ход игры/01. Засада у реки.md",
-    "Материалы/Харгрейв Торнвуд.jpg",
     "Персонажи/Харгрейв Торнвуд. Староста.md",
     "Персонажи/Корвин Тернистый. Друид.md",
     "Ход игры/03. Логово гоблинов.md",
     "Заметки.md",
     "Предметы/Оберег шамана.md",
-    "Материалы/den-of-goblins-battle-map_frames/4.jpg",
-    "Материалы/den-of-goblins-battle-map_frames/3.jpg",
-    "Материалы/den-of-goblins-battle-map_frames/2.jpg",
-    "Материалы/den-of-goblins-battle-map_frames/1.jpg",
     "Материалы/den-of-goblins-battle-map_frames",
     "Материалы/den-of-goblins-battle-map_frames.zip",
     "Материалы/Unconfirmed 789522.crdownload",
@@ -263,19 +278,12 @@
     "Предметы/Посох фей.md",
     "Предметы/Жало.md",
     "Предметы",
-    "Материалы/гоблин-чад.jpg",
     "New Text Document.txt",
-    "Материалы/village-battle-map_frames/4.jpg",
-    "Материалы/village-battle-map_frames/3.jpg",
-    "Материалы/village-battle-map_frames/2.jpg",
-    "Материалы/village-battle-map_frames/1.jpg",
     "Материалы/village-battle-map_frames",
     "Материалы/village-battle-map_frames.zip",
     "Материалы/Unconfirmed 183980.crdownload",
     "Персонажи/Лаэриэль Шепчущая Тетива. Охотница.md",
-    "Бестиарий/Лаэриэль Шепчущая Стрела.md",
     "Материалы/Unconfirmed 126395.crdownload",
-    "Материалы/Unconfirmed 340737.crdownload",
     "Welcome.md"
   ]
 }
