@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
+                "file": "Бестиарий/Гоблин чэд.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Пролог. Деревня Дубовая Роща"
+              "title": "Гоблин чэд"
             }
           }
         ]
@@ -219,7 +219,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_3bba39285ba9",
+                "creatureId": "ID_eac828a878b8",
                 "creatureName": "Goblin"
               },
               "icon": "initiative-tracker-creature-view",
@@ -248,6 +248,10 @@
   },
   "active": "36a96cdc9ca5b80b",
   "lastOpenFiles": [
+    "Бестиарий/Корвин Тернистый.md",
+    "Бестиарий/Шаман Гнилозуб.md",
+    "Заметки.md",
+    "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
     "Бестиарий/Гоблин чэд.md",
     "Ресурсы/Корвин Тернистый.jpg",
     "Ресурсы/гоблин-шаман.jpg",
@@ -259,9 +263,6 @@
     "Ресурсы/den-of-goblins-battle-map.png",
     "Ресурсы/bridge-battle-map.png",
     "Ресурсы/Харгрейв Торнвуд.jpg",
-    "Бестиарий/Шаман Гнилозуб.md",
-    "Бестиарий/Корвин Тернистый.md",
-    "Ход игры/00. Пролог. Деревня Дубовая Роща.md",
     "Untitled.base",
     "Untitled.md",
     "Ход игры/04. Эпилог.md",
@@ -269,7 +270,6 @@
     "Персонажи/Харгрейв Торнвуд. Староста.md",
     "Персонажи/Корвин Тернистый. Друид.md",
     "Ход игры/03. Логово гоблинов.md",
-    "Заметки.md",
     "Предметы/Оберег шамана.md",
     "Материалы/den-of-goblins-battle-map_frames",
     "Материалы/den-of-goblins-battle-map_frames.zip",

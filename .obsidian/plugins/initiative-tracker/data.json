@@ -121,7 +121,7 @@
       },
       {
         "name": "Bugbear",
-        "initiative": 3,
+        "initiative": 17,
         "static": false,
         "modifier": 2,
         "hp": 27,
@@ -141,7 +141,7 @@
       },
       {
         "name": "Bugbear",
-        "initiative": 12,
+        "initiative": 11,
         "static": false,
         "modifier": 2,
         "hp": 27,
@@ -161,7 +161,7 @@
       },
       {
         "name": "Goblin",
-        "initiative": 14,
+        "initiative": 21,
         "static": false,
         "modifier": 2,
         "hp": 7,
@@ -181,7 +181,7 @@
       },
       {
         "name": "Goblin",
-        "initiative": 4,
+        "initiative": 15,
         "static": false,
         "modifier": 2,
         "hp": 7,
@@ -201,7 +201,7 @@
       },
       {
         "name": "Goblin",
-        "initiative": 14,
+        "initiative": 19,
         "static": false,
         "modifier": 2,
         "hp": 7,
@@ -221,7 +221,7 @@
       },
       {
         "name": "Goblin",
-        "initiative": 5,
+        "initiative": 10,
         "static": false,
         "modifier": 2,
         "hp": 7,
@@ -241,7 +241,7 @@
       },
       {
         "name": "Goblin",
-        "initiative": 14,
+        "initiative": 13,
         "static": false,
         "modifier": 2,
         "hp": 7,
